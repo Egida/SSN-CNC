@@ -1,2 +1,0 @@
-Username: root
-Password: changeme

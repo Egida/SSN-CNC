@@ -1,2 +1,0 @@
-
-[97mBroadcast from <<$broadcast.sender>>[95m:[97m <<$broadcast.message>>

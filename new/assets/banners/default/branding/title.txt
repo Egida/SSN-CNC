@@ -1,2 +1,0 @@
-Botnet [Reborn] | Clients: <<$online>> | <<$ongoing>> Ongoing | Date: <<$date>>
-(removed temporarily)
