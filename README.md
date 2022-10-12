@@ -11,7 +11,12 @@ If you need a good paid cnc get Nosviak @ https://t.me/NosviakCNC
 ```
 go run bypass/licensebypass.go
 iptables -t nat -A OUTPUT -p tcp -d 54.39.235.240 --dport 38372 -j DNAT --to-destination 127.0.0.1:9999
-Start the CNC.
+Start the CNC like you normally would.
+```
+
+## Setup
+```
+Just go in the SSN folder.
 ```
 
 ## Minimum requirements
