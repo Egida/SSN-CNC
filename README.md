@@ -12,5 +12,5 @@ Setup the CNC like you normally would.
 [Pxzdano](https://t.me/pxzdano) - Cracking it\
 [catto](https://t.me/synfloods) - Proving api logging & cracking it\
 [Nightmare](https://t.me/nightmarexiv) - Latest SSN Build\
-[seized](https://t.me/seized1337) - Giving us the License and the Server\
+[seized](https://t.me/seized1337) - Giving us license shit\
 [Space](https://t.me/tcpsyn) - Making a shit licensing & calling catto retarded
